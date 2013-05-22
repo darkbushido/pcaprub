@@ -23,3 +23,5 @@ Makefile
 mkmf.log
 tmp
 lib/pcaprub.bundle
+.ruby-gemset
+.ruby-version
